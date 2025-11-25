@@ -193,20 +193,10 @@ Contributions are welcome! Feel free to:
 - Font: System font stack
 - Inspiration: Modern project management tools
 
-## 📸 Screenshots
-
-### Kanban View
-Organize tasks with drag-and-drop columns
-
-### Timeline View
-Visualize project schedules with Gantt-style timeline
-
-### Calendar View
-Track deadlines with monthly calendar view
-
 ---
 
 **Made with ❤️ using vanilla JavaScript**
 
 ⭐ If you like this project, please consider giving it a star on GitHub!
+
 
