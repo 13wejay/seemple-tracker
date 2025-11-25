@@ -1,11 +1,11 @@
 {
-  "name": "project-tracker",
+  "name": "seemple-tracker",
   "version": "1.0.0",
-  "description": "A modern project management application with Kanban, Timeline, and Calendar views",
-  "main": "index-new.html",
+  "description": "A simple project management application with Kanban, Timeline, and Calendar views",
+  "main": "index.html",
   "scripts": {
     "start": "npx http-server -p 8000 -o",
-    "dev": "npx live-server --port=8000 --open=index-new.html"
+    "dev": "npx live-server --port=8000 --open=index.html"
   },
   "keywords": [
     "project-management",
@@ -15,14 +15,15 @@
     "task-tracker",
     "vanilla-javascript"
   ],
-  "author": "Your Name",
+  "author": "Muhammad Ramadhani Wijayanto",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/your-username/task-tracker.git"
+    "url": "https://github.com/13wejay/seemple-tracker.git"
   },
   "bugs": {
-    "url": "https://github.com/your-username/task-tracker/issues"
+    "url": "https://github.com/13wejay/seemple-tracker/issues"
   },
-  "homepage": "https://github.com/your-username/task-tracker#readme"
+  "homepage": "https://github.com/13wejay/seemple-tracker#readme"
 }
+
