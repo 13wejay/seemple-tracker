@@ -1,0 +1,28 @@
+{
+  "name": "project-tracker",
+  "version": "1.0.0",
+  "description": "A modern project management application with Kanban, Timeline, and Calendar views",
+  "main": "index-new.html",
+  "scripts": {
+    "start": "npx http-server -p 8000 -o",
+    "dev": "npx live-server --port=8000 --open=index-new.html"
+  },
+  "keywords": [
+    "project-management",
+    "kanban",
+    "timeline",
+    "calendar",
+    "task-tracker",
+    "vanilla-javascript"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/task-tracker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/your-username/task-tracker/issues"
+  },
+  "homepage": "https://github.com/your-username/task-tracker#readme"
+}
