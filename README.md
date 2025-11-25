@@ -1,19 +1,19 @@
 # 📊 Project Tracker
 
-A modern, fully-featured project management application with Kanban board, Timeline (Gantt chart), and Calendar views. Built with vanilla HTML, CSS, and JavaScript - no frameworks required!
+A modern, simple project management application with Kanban board, Timeline (Gantt chart), and Calendar views. Built with vanilla HTML, CSS, and JavaScript - no frameworks required!
 
 ![Project Tracker](https://img.shields.io/badge/version-1.0.0-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
 ## ✨ Features
 
-### 🎯 Three Powerful Views
+### 🎯 Three Main Views
 - **Kanban Board**: Drag-and-drop task cards with customizable columns
 - **Timeline View**: Gantt-style timeline with daily/weekly/monthly modes
 - **Calendar View**: Monthly calendar with task visualization
 
-### 🎨 Rich Functionality
-- ✅ Create, edit, and delete tasks with full details
+### 🎨 Functionality
+- ✅ Create, edit, and delete tasks with details
 - 🎨 Custom projects with color coding
 - 🏷️ Priority levels (Low, Medium, High)
 - 📅 Date range tracking with visual progress bars
@@ -21,25 +21,24 @@ A modern, fully-featured project management application with Kanban board, Timel
 - 🏷️ Tag support
 - 💾 LocalStorage persistence - your data stays safe!
 
-### 🚀 Modern UI/UX
-- 📱 Fully responsive design
+### 🚀 UI/UX
+- 📱 Optimized for PC/Tablet design
 - 🎭 Custom dialog system (no browser alerts!)
 - 🔔 Toast notifications for user feedback
 - 🖱️ Drag-and-drop for tasks and columns
 - ✏️ Inline editing for column names
 - 📌 Sticky headers for better navigation
-- 🎨 Modern gradient and shadow effects
 
 ## 🖥️ Demo
 
-**Live Demo**: [View Project Tracker](https://your-username.github.io/task-tracker)
+**Live Demo**: [View Project Tracker](https://your-username.github.io/seemple-tracker)
 
 ## 📦 Installation
 
 ### Option 1: Clone the Repository
 ```bash
-git clone https://github.com/your-username/task-tracker.git
-cd task-tracker
+git clone https://github.com/your-username/seemple-tracker.git
+cd seemple-tracker
 ```
 
 ### Option 2: Download ZIP
@@ -51,12 +50,12 @@ Click the "Use this template" button on GitHub to create your own repository.
 ## 🚀 Usage
 
 ### Local Development
-Simply open `index-new.html` in your web browser:
+Simply open `index.html` in your web browser:
 ```bash
 # Using default browser
-open index-new.html  # macOS
-start index-new.html # Windows
-xdg-open index-new.html # Linux
+open index.html  # macOS
+start index.html # Windows
+xdg-open index.html # Linux
 ```
 
 ### With Live Server (Recommended)
@@ -78,13 +77,12 @@ Then navigate to `http://localhost:8000`
 ```
 task-tracker/
 ├── css/
-│   └── styles.css          # All styling
+│   └── styles.css         # All styling
 ├── js/
 │   └── app.js             # Application logic
-├── index-new.html         # Main HTML file
-├── index.html            # Original single-file version (legacy)
-├── README.md             # This file
-└── .gitignore           # Git ignore rules
+├── index.html             # Main HTML file
+├── README.md              # This file
+└── .gitignore             # Git ignore rules
 ```
 
 ## 🎮 How to Use
@@ -160,7 +158,7 @@ The app comes with sample data. To start fresh:
 1. Push your code to GitHub
 2. Go to repository Settings → Pages
 3. Select source: `main` branch
-4. Your site will be live at `https://your-username.github.io/task-tracker`
+4. Your site will be live at `https://your-username.github.io/seemple-tracker`
 
 ### Netlify
 1. Drag and drop the project folder to [Netlify Drop](https://app.netlify.com/drop)
@@ -185,9 +183,9 @@ Contributions are welcome! Feel free to:
 
 ## 👤 Author
 
-**Your Name**
-- GitHub: [@your-username](https://github.com/your-username)
-- Website: [your-website.com](https://your-website.com)
+**Muhammad Ramadhani Wijayanto**
+- GitHub: [@13wejay](https://github.com/13wejay)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/muh-ramawijaya/)
 
 ## 🙏 Acknowledgments
 
@@ -211,3 +209,4 @@ Track deadlines with monthly calendar view
 **Made with ❤️ using vanilla JavaScript**
 
 ⭐ If you like this project, please consider giving it a star on GitHub!
+
