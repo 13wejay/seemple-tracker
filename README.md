@@ -37,7 +37,7 @@ A modern, simple project management application with Kanban board, Timeline (Gan
 
 ### Option 1: Clone the Repository
 ```bash
-git clone https://github.com/your-username/seemple-tracker.git
+git clone https://github.com/13wejay/seemple-tracker.git
 cd seemple-tracker
 ```
 
@@ -158,7 +158,7 @@ The app comes with sample data. To start fresh:
 1. Push your code to GitHub
 2. Go to repository Settings → Pages
 3. Select source: `main` branch
-4. Your site will be live at `https://your-username.github.io/seemple-tracker`
+4. Your site will be live at `https://13wejay.github.io/seemple-tracker`
 
 ### Netlify
 1. Drag and drop the project folder to [Netlify Drop](https://app.netlify.com/drop)
@@ -198,5 +198,6 @@ Contributions are welcome! Feel free to:
 **Made with ❤️ using vanilla JavaScript**
 
 ⭐ If you like this project, please consider giving it a star on GitHub!
+
 
 
